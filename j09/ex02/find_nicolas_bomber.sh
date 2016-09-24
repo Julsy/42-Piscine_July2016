@@ -1,0 +1,1 @@
+cat phonebook.txt | grep -i "nicolas" | grep -i "bomber" | grep -v "nicolasbomber" | tr "\t" ! | cut -d ! -f 3 | grep -E "^[0-9]"
