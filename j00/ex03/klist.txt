@@ -1,0 +1,5 @@
+Credentials cache: API:98FF0799-E4B4-4BD3-8F7B-61BDC104A7E9
+        Principal: iiliuk@42.US.ORG
+
+  Issued                Expires               Principal
+Jul 12 20:04:19 2016  Jul 13 06:04:19 2016  krbtgt/42.US.ORG@42.US.ORG
